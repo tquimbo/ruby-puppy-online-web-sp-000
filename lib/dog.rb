@@ -25,7 +25,7 @@ def self.clear_all
 self.all.clear
 end
 
-def save
+def save(name)
 @all << self
 end
 

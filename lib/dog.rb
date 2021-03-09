@@ -10,7 +10,7 @@ def initialize(name)
 @@all << @name
 end
 
-def self.all
+def self.all(name)
 return @@all
 end
 

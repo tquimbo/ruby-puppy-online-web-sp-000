@@ -22,7 +22,7 @@ end
 end
 
 def self.clear_all
-
+self.clear_all
 end
 
 

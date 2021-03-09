@@ -14,7 +14,7 @@ def self.all
 @@all
 end
 
-def self.print_all
+def self.print_all(name)
 
 @@all.each do |dog|
   puts name
